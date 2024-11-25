@@ -25,7 +25,7 @@ Este script, criado por **Alisson Ramos**, tem como objetivo criar um backup do 
    - O script utiliza por padrão o disco `C:` como destino do backup. Se desejar alterar o destino, edite a variável `$backupTarget` no início do script.
 
 2. **Execução**:
-   - Salve o script com a extensão `.ps1` (exemplo: `BackupSistema.ps1`).
+   - Salve o script com a extensão `.ps1` (`BackupSistema.ps1`).
    - Execute o script no `GerarBackupSistema.bat` como Administrador.
 
 3. **Fluxo do Script**:
